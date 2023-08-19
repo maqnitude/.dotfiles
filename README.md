@@ -7,4 +7,4 @@ My dotfiles are located at `$HOME/.dotfiles`. The config files are managed using
 ```bash
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 ```
-I also added this line to `~/.bashrc`.
+I also added this to `~/.bashrc`.
