@@ -151,8 +151,9 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 
 # assign apps to their respective workspace
 set $terminal "Alacritty"
+set $browser "firefox"
 
-assign [class="firefox"] $ws2
+assign [class=$browser] $ws2
 assign [class=$terminal] $ws3
 
 # reload the configuration file
