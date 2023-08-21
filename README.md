@@ -1,5 +1,5 @@
-# .dotfiles
-For managing my dotfiles on Arch Linux. 
+# ~/.dotfiles
+For tracking my dotfiles on Arch Linux. 
 
 Based on this [thread](https://news.ycombinator.com/item?id=11071754) on Hacker News. And this [post on atlassian](https://www.atlassian.com/git/tutorials/dotfiles).
 
