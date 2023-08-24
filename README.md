@@ -9,4 +9,4 @@ alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 ```
 I also added this to `~/.zshrc`.
 
-Still working on Neovim, gonna track it as a git module. 
+Tracking my [neovim configurations](https://github.com/maqnitude/nvim-init.lua) as a submodule. 
