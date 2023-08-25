@@ -48,5 +48,8 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 
+xset r rate 200 30 # autorepeat delay (ms) and rate (hz)
+
 exec i3
-exec ibus-daemon -rxR
+
+# exec ibus-daemon -rxR
