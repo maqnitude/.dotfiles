@@ -3,7 +3,7 @@
 #   144 (150%)
 #   168 (175%)
 #   192 (200%)
-Xft.dpi: 120
+Xft.dpi: 96
 
 # These could be useful?
 Xft.autohint: 0
